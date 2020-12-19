@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='epmdimhannmcnoijaipgbcclokkbhekj'>
-    <updatecheck codebase='https://github.com/Math07170/PeachPass/raw/main/Peach.crx' version='3.1' />
+    <updatecheck codebase='https://github.com/Math07170/TestUpdate/raw/main/TestUpdate.crx' version='1.2' />
   </app>
 </gupdate>
